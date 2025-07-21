@@ -4,6 +4,11 @@
 
 <p align="center"><b><a href="https://play.google.com/store/apps/details?id=com.free.block.musicum&gl=in&hl=en_IN"><img src="https://github.com/user-attachments/assets/5426bc5c-1171-4ce7-85b4-504b09e56c38" alt="Get it on Play store" height=80/></a></b></p>
 
+<h2 align="center">SimpMusic - MP3 Music Player have given it an average rating of 5 stars
+out of 5 stars.</h2>
+
+<p align="center"><b><a href="https://simpmusic-mp3-music-player.updatestar.com/"><img src="https://www.updatestar.com/img/rating_5stars.png" alt="Get it on Play store" height=80/></a></b></p>
+
 SimpMusic gives you access to a world of free music, curated playlists, artists, and podcasts you love. Discover podcasts, new music, top songs or listen to your favorite artists and albums.
 
 ### Features
@@ -22,6 +27,7 @@ SimpMusic gives you access to a world of free music, curated playlists, artists,
 
 
 [Music App](https://github.com/Purehi/Purehi/assets/138559218/c11f8da0-f905-4f5a-b457-07dc2cb81ed0)
+
 
 
 <!--
