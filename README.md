@@ -18,9 +18,8 @@ SimpleMusic gives you access to a world of free music, curated playlists, artist
 * Seamless background playback
 * 🔥 Search songs, album, artist ,channels and playlists
 
-
 <p align="center">
-<img src="https://github.com/user-attachments/assets/a7ec9cdc-ec0b-4fc8-bdd6-1158e4160bab" width="160" />
+<img src="https://github.com/user-attachments/assets/042b164e-ed7e-4a8a-a6f5-6a29564f9bdf" width="160" />
 <img src="https://github.com/user-attachments/assets/8b26fe54-94a0-493a-ae5a-d47adb0fa2e0" width="160" />
 <img src="https://github.com/user-attachments/assets/d251740e-4507-4a6e-936a-f2fb74dd3ff2" width="160" />
 </p>
