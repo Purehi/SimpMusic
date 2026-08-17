@@ -2,7 +2,7 @@
 <h1 align="center">SimpleMusic - MP3 Music Player</h1>
 <h4 align="center">Listen to your favorite music and watch music videos with SimpleMusic for Android.</h4>
 
-<p align="center"><b><a href="https://play.google.com/store/apps/details?id=com.free.block.musicum&gl=in&hl=en_IN"><img src="https://github.com/user-attachments/assets/5426bc5c-1171-4ce7-85b4-504b09e56c38" alt="Get it on Play store" height=80/></a></b></p>
+<p align="center"><b><a href="https://play.google.com/store/apps/details?id=free.mor.mordo.do"><img src="https://github.com/user-attachments/assets/5426bc5c-1171-4ce7-85b4-504b09e56c38" alt="Get it on Play store" height=80/></a></b></p>
 
 <h2 align="center">SimpleMusic - MP3 Music Player have given it an average rating of 5 stars
 out of 5 stars.</h2>
